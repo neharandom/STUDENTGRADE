@@ -4,6 +4,7 @@ Company:CODTECH IT SOLUTIONS PVT.LTD
 ID:CT08DS378
 Domain:Java Programming
 Duration:december 15 to january 15 2024
+"C:\Users\Neha\Pictures\Screenshots\Screenshot 2024-12-22 114446.png"
 Overview of the project:
  Project:Develop a Java program to track and manage student grades. The
 program should allow the user to input grades for different subjects or
